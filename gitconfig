@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = federer.kristijan@gmail.com
+	name = Kristijan Federer
